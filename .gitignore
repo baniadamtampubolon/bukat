@@ -1,2 +1,6 @@
 .venv/
+<<<<<<< HEAD
 /sentimen_X_data.csv
+=======
+/sentimen_X_data.csv
+>>>>>>> 9a51f0b73fd6df833674360940231b9f5266569b
